@@ -5,7 +5,7 @@
 > organisation address. Existing local checkouts can keep their folders.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xboxnuker-rgb/DSP-Signal-Nexus/main/assets/artwork/signal-nexus-key-art.png" width="720" alt="Signal Nexus key art">
+  <img src="https://raw.githubusercontent.com/GSVS-UK-ACM/DSP-Signal-Nexus/main/assets/artwork/signal-nexus-key-art.png" width="720" alt="Signal Nexus key art">
 </p>
 
 # Signal Nexus
@@ -31,9 +31,9 @@ Monitor belt flow, drive a visible holographic status marker from the same signa
 
 | Compact belt-mounted building | Holographic marker in action |
 | --- | --- |
-| ![Signal Nexus installed on a conveyor belt](https://raw.githubusercontent.com/xboxnuker-rgb/DSP-Signal-Nexus/main/assets/screenshots/signal-nexus-building.png) | ![Signal Nexus projecting a green holographic beacon](https://raw.githubusercontent.com/xboxnuker-rgb/DSP-Signal-Nexus/main/assets/screenshots/signal-nexus-beacon.png) |
+| ![Signal Nexus installed on a conveyor belt](https://raw.githubusercontent.com/GSVS-UK-ACM/DSP-Signal-Nexus/main/assets/screenshots/signal-nexus-building.png) | ![Signal Nexus projecting a green holographic beacon](https://raw.githubusercontent.com/GSVS-UK-ACM/DSP-Signal-Nexus/main/assets/screenshots/signal-nexus-beacon.png) |
 
-![Unified Signal Nexus monitor, alarm, and hologram settings](https://raw.githubusercontent.com/xboxnuker-rgb/DSP-Signal-Nexus/main/assets/screenshots/signal-nexus-settings.png)
+![Unified Signal Nexus monitor, alarm, and hologram settings](https://raw.githubusercontent.com/GSVS-UK-ACM/DSP-Signal-Nexus/main/assets/screenshots/signal-nexus-settings.png)
 
 ## Requirements
 

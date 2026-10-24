@@ -2,6 +2,11 @@
 
 All notable changes to Signal Nexus are documented here.
 
+## 0.2.16 - 2026-10-24
+
+- Updated the project website and documentation artwork links after moving to GSVS-UK-ACM.
+- This is a metadata-only package update. The DLL bytes and plugin version remain the published 0.2.15 build. There are no gameplay changes.
+
 ## 0.2.15 - 2026-10-10
 
 - Added a purple-and-green GSVS startup banner to the BepInEx log.

@@ -1,5 +1,30 @@
 # Thunderstore release records
 
+## 0.2.16 published metadata update
+
+Task: `GHM-M1-001`. Published on 24 October 2026 with explicit owner approval.
+
+- Listing: https://thunderstore.io/c/dyson-sphere-program/p/GSVS_UK_ACM/SignalNexus/
+- Website: https://github.com/GSVS-UK-ACM/DSP-Signal-Nexus
+- Package: `GSVS_UK_ACM-SignalNexus-0.2.16`
+- ZIP SHA-256: `2e48732527e12cf0cca407f8397f9cadf82412001ae0895034937c08b2516cc5`
+- DLL SHA-256: `33c09a35e23f0760c7596bd7ef0b0dfce0a15e2169c2e035653b51c78ca79d47`
+
+Thunderstore requires a new version for manifest or README changes. This package
+was made from the published 0.2.15 ZIP, without rebuilding the DLL. Only the
+manifest version and website, README artwork URLs and changelog changed. All six
+archive entries were compared. The DLL, icon and licence are byte-identical.
+Dependencies and all four DSP categories were retained. The public listing shows
+the organisation website and 0.2.16 install/download links. Downloading the
+published ZIP produced the same SHA-256 as the approved upload.
+
+The package version is intentionally 0.2.16 while the DLL still reports 0.2.15.
+No new in-game runtime test was performed because the runtime bytes are unchanged.
+The next development release must use 0.2.17 or later and align its manifest,
+assembly and plugin versions. Do not rebuild or republish this immutable version.
+Recovery for a bad metadata edit requires another package version. Existing
+0.2.15 and 0.2.14 packages were retained.
+
 ## 0.2.15 release candidate
 
 - **Community:** Dyson Sphere Program
