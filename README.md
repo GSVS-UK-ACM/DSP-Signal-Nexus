@@ -1,3 +1,9 @@
+<!-- GSVS-REPOSITORY-MIGRATION -->
+> **New repository home:** This project moved from `xboxnuker-rgb/DSP-Signal-Nexus` to
+> [GSVS-UK-ACM/DSP-Signal-Nexus](https://github.com/GSVS-UK-ACM/DSP-Signal-Nexus).
+> Existing GitHub links redirect here. Continue using this repository under its
+> organisation address. Existing local checkouts can keep their folders.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/xboxnuker-rgb/DSP-Signal-Nexus/main/assets/artwork/signal-nexus-key-art.png" width="720" alt="Signal Nexus key art">
 </p>
